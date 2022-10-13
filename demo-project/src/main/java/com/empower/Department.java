@@ -5,6 +5,8 @@ package com.empower;
 		private String name;
 		private int emp_id;
 		private double max_salary;
+		private float newCode;
+		
 	public Department() {
 		// TODO Auto-generated constructor stub
 	}
